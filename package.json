@@ -9,7 +9,7 @@
   "author": "lizhengxue",
   "license": "ISC",
   "dependencies": {
-    "echarts": "^3.3.2"
+    "echarts": "4.3.0"
   },
   "devDependencies": {
     "webpack": "^4.41.0",
