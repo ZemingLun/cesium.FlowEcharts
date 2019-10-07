@@ -5,9 +5,9 @@ In order to use this plugin, include the echartsjs, cesium and FlowEcharts.js  o
 
 ### demo
 
-[人员迁徙](https://github.com/ZemingLun/cesium.FlowEcharts/demo/line.html)
+[人员迁徙](https://zeminglun.github.io/cesium.FlowEcharts/demo/line.html)
 
-[散点图态势](https://github.com/ZemingLun/cesium.FlowEcharts/demo/scatter.html)
+[散点图态势](https://zeminglun.github.io/cesium.FlowEcharts/demo/scatter.html)
 
 ### import
 
